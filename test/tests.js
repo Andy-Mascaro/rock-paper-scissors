@@ -1,4 +1,4 @@
-// IMPORT MODULES under test here:
+
 import { score } from '../game.js';
 
 const test = QUnit.test;
